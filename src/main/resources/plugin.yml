@@ -1,0 +1,9 @@
+name: SequenceExecutor
+version: 1.0
+api-version: 1.17
+main: cc.globalserver.SequenceExecutor.Main
+commands:
+  se:
+    description: Combine Commands
+    usage: /se cmd1 cmd2 ... cmdx
+
